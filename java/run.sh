@@ -4,9 +4,9 @@ DESTINATION_FOLDER="java-jars"
 echo ""
 echo "~~~ Starting Building Jars & storing jars in folder: $DESTINATION_FOLDER"
 echo ""
-. ./package_store_jars.sh
+. ./mvn_package_and_store_jars.sh
 
 echo ""
-echo "~~~ Starting Building Podman Images & running: $DESTINATION_FOLDER"
+echo "~~~ Starting Building Podman Images & running..."
 echo ""
-. ./build_run_podman.sh
+. ./image_build_run_podman.sh
