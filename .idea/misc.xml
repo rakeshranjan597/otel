@@ -6,6 +6,9 @@
       <list>
         <option value="$PROJECT_DIR$/java-otel/pom.xml" />
         <option value="$PROJECT_DIR$/java-otel-test/pom.xml" />
+        <option value="$PROJECT_DIR$/java/j-otel-test/pom.xml" />
+        <option value="$PROJECT_DIR$/java/j-otel/pom.xml" />
+        <option value="$PROJECT_DIR$/java/pom.xml" />
       </list>
     </option>
   </component>
