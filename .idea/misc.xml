@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/java/j-otel-test/pom.xml" />
         <option value="$PROJECT_DIR$/java/j-otel/pom.xml" />
         <option value="$PROJECT_DIR$/java/pom.xml" />
+        <option value="$PROJECT_DIR$/java/otelbaggage/pom.xml" />
       </list>
     </option>
   </component>
